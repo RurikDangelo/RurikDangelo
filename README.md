@@ -74,7 +74,7 @@ Os detalhes de cada um estão no [portfólio](https://rurikdangelo.vercel.app).
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RurikDangelo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=161b18&title_color=5EDB8C&icon_color=5EDB8C&text_color=c9d1cc" height="165" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=RurikDangelo&show_icons=true&hide_border=true&bg_color=161b18&title_color=5EDB8C&icon_color=5EDB8C&text_color=c9d1cc" height="165" alt="Estatísticas do GitHub" />
 <img src="https://streak-stats.demolab.com?user=RurikDangelo&hide_border=true&background=161b18&ring=5EDB8C&fire=5EDB8C&currStreakLabel=5EDB8C&sideLabels=c9d1cc&dates=8b968f&currStreakNum=f0f4f1&sideNums=f0f4f1" height="165" alt="Sequência de contribuições" />
 
 <picture>
